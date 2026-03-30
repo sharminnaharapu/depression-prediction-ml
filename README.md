@@ -14,5 +14,5 @@ This project predicts depression using NHANES dataset.
 - XGBoost
 
 ## Author
-Sharmin Nahar
+Sharmin Nahar,
 Graduate Student – Machine Learning
